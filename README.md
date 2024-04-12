@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**da-gohil/da-gohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Darshan Gohil, a Senior Software Engineer with a background in Information Systems. 
 
-Here are some ideas to get you started:
+🔭 Currently, I'm not actively working on any public projects, but I'm always tinkering with new technologies and learning something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm passionate about continuous learning and staying updated with the latest trends in software development and testing methodologies.
+
+👯 I'm open to collaborating on projects related to Java development, software testing, web development, and data warehousing.
+
+💬 Feel free to ask me about my experiences in software engineering, testing tools and methodologies, or anything related to my background and interests.
+
+📫 You can reach me via email at gohil.da@northeastern.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/darshangohil).
+
+⚡ Fun fact: I enjoy exploring different cuisines and love cooking up new dishes in my free time!
