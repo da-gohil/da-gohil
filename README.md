@@ -2,7 +2,7 @@
 
 I'm a Full Stack Software Developer and an ISTQB Certified Quality Assurance Tester, currently pursuing a Master of Science in Information Systems at Northeastern University, Boston. My mission is to integrate Advanced Software Development practices with robust Quality Assurance to deliver high-performing, reliable, and scalable systems.
 
-With over 2 years of experience as a Senior Software Engineer at Capgemini Technology Services - India, specializing in the Financial Services business unit, I am dedicated to achieving organizational goals and driving innovation in technology and financial management.
+With over 2 years of experience as a Senior Software Engineer at Capgemini Technology Services - India, specializing in the Financial Services business unit, I am dedicated to achieving organizational goals and driving transformative innovation in technology and financial management.
 
 I am passionate about continuous learning, community engagement, and knowledge sharing. I actively participate in business conferences, technology summits, product launches, and community initiatives to stay updated and contribute to the industry.
 
