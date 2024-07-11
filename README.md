@@ -9,7 +9,6 @@ I am passionate about continuous learning, community engagement, and knowledge s
 Explore my GitHub to see my projects, contributions, and journey in this exciting field. Feel free to collaborate or reach out – let’s build innovative solutions together!
 
 ## Table of Contents
-## Table of Contents
 - [🔭 What I'm Currently Working On](#-what-im-currently-working-on)
 - [🤝 Looking to Collaborate On](#-looking-to-collaborate-on)
 - [🆘 Looking for Help With](#-looking-for-help-with)
@@ -59,27 +58,38 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 ## 🛡️ Discreet Contact Points
 
 - Email: gohil.da@northeastern.edu
-- Signal, Keybase: Available upon request
+- [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/SAKztkX6uo7eTJY0wsMgn4xpszx-ImV0sfpfUTuTyib0VrvBJaBHsIosECUCW0XS)
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://linkedin.com/darshangohil)
-- [GitHub](https://github.com/da-gohil)
+- [GitHub]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/darshangohil)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/da-gohil)
+
 
 ## 💻 Tech Stack
 
 ### Programming Languages
-- Java (Core + Advance)
-- JavaScript (NodeJS)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Web Development Technologies
-- HTML, CSS
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Database and Data Warehouse
-- SQL (MySQL), PL/SQL, MongoDB, Snowflake
+![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks
 - JSP Servlets, Hibernate, ReactJS, ExpressJS
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Soft Skills
 - Strong verbal and written communication
@@ -103,5 +113,11 @@ I am committed to continuous learning and development to contribute effectively 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=da-gohil&theme=radical)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
