@@ -118,6 +118,6 @@ I am committed to continuous learning and development to contribute effectively 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://www.memedroid.com/memes/tag/programming' style="height: 400px;"/>
 
 ---
