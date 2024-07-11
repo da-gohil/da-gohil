@@ -9,19 +9,19 @@ I am passionate about continuous learning, community engagement, and knowledge s
 Explore my GitHub to see my projects, contributions, and journey in this exciting field. Feel free to collaborate or reach out – let’s build innovative solutions together!
 
 ## Table of Contents
-
-- 🔭 [What I'm Currently Working On](#what-im-currently-working-on)
-- 🤝 [Looking to Collaborate On](#looking-to-collaborate-on)
-- 🆘 [Looking for Help With](#looking-for-help-with)
-- 🌱 [Currently Learning](#currently-learning)
-- 🙋‍♂️ [Ask Me About](#ask-me-about)
-- ⚡ [Fun Fact](#fun-fact)
-- 🛡️ [Discreet Contact Points](#discreet-contact-points)
-- 🌐 [Connect with Me](#connect-with-me)
-- 💻 [Tech Stack](#tech-stack)
-- 💖 [Support My Work](#support-my-work)
-- 📊 [GitHub Stats](#github-stats)
-- 🏆 [GitHub Trophies](#github-trophies)
+## Table of Contents
+- [🔭 What I'm Currently Working On](#-what-im-currently-working-on)
+- [🤝 Looking to Collaborate On](#-looking-to-collaborate-on)
+- [🆘 Looking for Help With](#-looking-for-help-with)
+- [🌱 Currently Learning](#-currently-learning)
+- [🙋‍♂️ Ask Me About](#️-ask-me-about)
+- [⚡ Fun Fact](#-fun-fact)
+- [🛡️ Discreet Contact Points](#️-discreet-contact-points)
+- [🌐 Connect with Me](#-connect-with-me)
+- [💻 Tech Stack](#-tech-stack)
+- [💖 Support My Work](#-support-my-work)
+- [📊 GitHub Stats](#-github-stats)
+- [🏆 GitHub Trophies](#-github-trophies)
 
 ## 🔭 What I'm Currently Working On
 
@@ -89,6 +89,9 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 ### Certifications
 - ISTQB Certified Tester Foundation Level (CTFL)
 
+### Others
+- ISTQB Certified Tester Foundation Level (CTFL)
+
 ## 💖 Support My Work
 
 I am committed to continuous learning and development to contribute effectively to the tech community. Your support helps me dedicate more time to research and development.
@@ -102,5 +105,3 @@ I am committed to continuous learning and development to contribute effectively 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=da-gohil&theme=radical)
 
 ---
-
-Feel free to customize it further based on your preferences and specific details.
