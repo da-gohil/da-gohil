@@ -8,6 +8,10 @@ I am passionate about continuous learning, community engagement, and knowledge s
 
 Explore my GitHub to see my projects, contributions, and journey in this exciting field. Feel free to collaborate or reach out – let’s build innovative solutions together!
 
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
 ## Table of Contents
 - [🔭 What I'm Currently Working On](#-what-im-currently-working-on)
 - [🤝 Looking to Collaborate On](#-looking-to-collaborate-on)
@@ -62,7 +66,7 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 
 ## 🌐 Connect with Me
 
-- [GitHub]
+- ## **📫 Connect with Me!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/darshangohil)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/da-gohil)
 
