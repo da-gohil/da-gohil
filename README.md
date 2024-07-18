@@ -1,6 +1,7 @@
+
 # 👋 Hi there! I'm Darshan Gohil
 
-I'm a Full Stack Software Developer and an ISTQB Certified Quality Assurance Tester, currently pursuing a Master of Science in Information Systems at Northeastern University, Boston. My goal is to integrate Advanced Software Development practices with robust Quality Assurance to deliver high-performing, reliable, and scalable systems.
+I'm a Full Stack Software Developer and an ISTQB Certified Quality Assurance Tester, currently pursuing a Master of Science in Information Systems at Northeastern University, Boston. My goal is to integrate advanced software development practices with robust quality assurance to deliver high-performing, reliable, and scalable systems.
 
 With over 2 years of experience as a Senior Software Engineer at Capgemini Technology Services - India, specializing in the Financial Services business unit, I am dedicated to achieving organizational goals and driving transformative innovation in technology and financial management.
 
@@ -8,10 +9,8 @@ I am passionate about continuous learning, community engagement, and knowledge s
 
 Explore my GitHub to see my projects, contributions, and journey in this exciting field. Feel free to collaborate or reach out – let’s build innovative solutions together!
 
- 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-  
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+
 ## Table of Contents
 - [🔭 What I'm Currently Working On](#-what-im-currently-working-on)
 - [🤝 Looking to Collaborate On](#-looking-to-collaborate-on)
@@ -46,7 +45,7 @@ Explore my GitHub to see my projects, contributions, and journey in this excitin
 
 ## 🌱 Currently Learning
 
-- Network Structures and Cloud Computing
+- Network structures and cloud computing
 - Advanced JavaScript frameworks (ReactJS, AngularJS)
 
 ## 🙋‍♂️ Ask Me About
@@ -66,10 +65,8 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 
 ## 🌐 Connect with Me
 
-- ## **📫 Connect with Me!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/darshangohil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshangohil)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/da-gohil)
-
 
 ## 💻 Tech Stack
 
@@ -88,7 +85,6 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks
-- JSP Servlets, Hibernate, ReactJS, ExpressJS
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
@@ -101,9 +97,6 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 - Strong attention to detail and multitasking abilities
 
 ### Certifications
-- ISTQB Certified Tester Foundation Level (CTFL)
-
-### Others
 - ISTQB Certified Tester Foundation Level (CTFL)
 
 ## 💖 Support My Work
@@ -125,3 +118,5 @@ I am committed to continuous learning and development to contribute effectively 
 <img src='https://www.memedroid.com/memes/tag/programming' style="height: 400px;"/>
 
 ---
+
+I've fixed the formatting issues and cleaned up the text for better readability. Let me know if you need any further adjustments!
