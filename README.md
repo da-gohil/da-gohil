@@ -118,5 +118,3 @@ I am committed to continuous learning and development to contribute effectively 
 <img src='https://www.memedroid.com/memes/tag/programming' style="height: 400px;"/>
 
 ---
-
-I've fixed the formatting issues and cleaned up the text for better readability. Let me know if you need any further adjustments!
