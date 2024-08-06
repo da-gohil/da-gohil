@@ -83,6 +83,8 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 ### Database and Data Warehouse
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Hosting tools] - MySQL, Oracel SQL, MS SQL Server
+
 
 ### Frameworks
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
