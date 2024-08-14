@@ -1,7 +1,7 @@
 
 # 👋 Hi there! I'm Darshan Gohil
 
-I'm a Full Stack Software Developer and an ISTQB Certified Quality Assurance Tester, currently pursuing a Master of Science in Information Systems at Northeastern University, Boston. My goal is to integrate advanced software development practices with robust quality assurance to deliver high-performing, reliable, and scalable systems.
+Achievement-oriented Full Stack Software Developer and an ISTQB Certified Quality Assurance Tester software developer with 3+ years of professional work experience., currently pursuing a Master of Science in Information Systems at Northeastern University, Boston. My goal is to integrate advanced software development practices with robust quality assurance to deliver high-performing, reliable, and scalable systems.
 
 With over 2 years of experience as a Senior Software Engineer at Capgemini Technology Services - India, specializing in the Financial Services business unit, I am dedicated to achieving organizational goals and driving transformative innovation in technology and financial management.
 
