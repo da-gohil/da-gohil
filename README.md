@@ -1,5 +1,3 @@
-Here's a refined version of your GitHub README file:
-
 ---
 
 # 👋🏻 Hello, I'm Darshan Gohil
@@ -125,6 +123,3 @@ I am committed to continuous learning and development to contribute effectively 
 ### 😂 Random Dev Meme
 <img src='https://www.memedroid.com/memes/tag/programming' style="height: 400px;"/>
 
----
-
-This version enhances your original content with stronger action words, value propositions, and a more cohesive structure. Let me know if there’s anything else you’d like to adjust!
