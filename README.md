@@ -98,6 +98,8 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-%2300D1FF.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%2300D1FF.svg?style=for-the-badge&logo=agile&logoColor=white)
 
+## 💻 Tech Stack
+
 ### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -107,21 +109,6 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-Here's the updated README content starting from the Full Stack Development section:
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-- Java
-- Python
-- C++
-- JavaScript
-- HTML
-- CSS
-- SQL
 
 ### Web Development Technologies
 - React
