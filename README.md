@@ -1,8 +1,9 @@
+
 ---
 
 # 👋🏻 Hello, I'm Darshan Gohil
 
-An achievement-oriented Full Stack Software Developer and ISTQB Certified Quality Assurance Tester with a relentless passion for innovation. Currently, I'm pursuing a Master of Science in Information Systems at Northeastern University, Boston. My mission is to seamlessly integrate advanced software development practices with robust quality assurance methodologies to deliver high-performing, reliable, and scalable systems.
+A result-oriented Full Stack Software Developer and ISTQB Certified Quality Assurance Tester with a relentless passion for innovation. Currently, I'm pursuing a Master of Science in Information Systems at Northeastern University, Boston. My mission is to seamlessly integrate advanced software development practices with robust quality assurance methodologies to deliver high-performing, reliable, and scalable systems.
 
 💼 With over 2.5 years of experience in the IT industry, including roles as a Senior Software Engineer at Capgemini, India, and other companies specializing in Financial Services and IT Consulting, I am driven by ambition and curiosity. My focus is on aligning with organizational visions and core objectives, exploring the intersection of technology and financial management, and delivering transformative solutions, all while fostering strong work relationships across multiple business units.
 
@@ -75,39 +76,107 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 
 ## 💻 Tech Stack
 
+### Technical Skills
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-%23323330.svg?style=for-the-badge&logo=octave&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-%23E44D26.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+![Quant](https://img.shields.io/badge/Quant-%2300D2B6.svg?style=for-the-badge&logo=quora&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-%23000.svg?style=for-the-badge&logo=statistics&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![UNIX](https://img.shields.io/badge/UNIX-%23D3D3D3.svg?style=for-the-badge&logo=unix&logoColor=black)
+![API Design](https://img.shields.io/badge/API%20Design-%230077B5.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![JDK](https://img.shields.io/badge/JDK-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%233E4A89.svg?style=for-the-badge&logo=java&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-%2300D1FF.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%2300D1FF.svg?style=for-the-badge&logo=agile&logoColor=white)
+
 ### Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233676AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+Here's the updated README content starting from the Full Stack Development section:
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+- Java
+- Python
+- C++
+- JavaScript
+- HTML
+- CSS
+- SQL
 
 ### Web Development Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Database and Data Warehouse
-![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Hosting tools] - MySQL, Oracle SQL, MS SQL Server
+- React
+- Angular
+- Node.js
+- Spring
+- Spring Boot
 
 ### Frameworks
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+- Docker
+- Kubernetes
+- Collection Framework
+- Servlets
+- Hibernate
+- jQuery
 
-### Soft Skills
-- Strong verbal and written communication.
-- Proficient in Microsoft Office suite (Word, Excel, PowerPoint, OneNote).
-- Strong attention to detail and multitasking abilities.
+### Tools
+- Postman
+- Figma
+- Agile
+- Git
+- GitHub
+- JIRA
+- Bitbucket
+- Jenkins
+- CI/CD
+
+### Databases
+- MySQL
+- PL/SQL
+- MongoDB
+- Snowflake
+- Firebase
+- REST APIs
+- GraphQL
+- Hadoop (HIVE - HDFS)
 
 ### Certifications
-- ISTQB Certified Tester Foundation Level (CTFL).
+- ISTQB Certified - Foundation Level (CTFL) – International Testing Board
 
-## 💖 Support My Work
+### 🌟 Leadership and Soft Skills
 
-I am committed to continuous learning and development to contribute effectively to the tech community. Your support helps me dedicate more time to research and development.
+I innovate by thinking deeply and broadly about the customer experience and client needs. I minimize human involvement through process innovation and technology, always focusing on delivering long-term value over short-term gains. As someone who values time and patience, I approach challenges with a customer-focused mindset, thinking like a project owner rather than a renter. My leadership is marked by sustained and systematic innovations, motivating and enabling others to excel.
+
+Here’s how I bring these principles into my work:
+
+- **Customer-Focused Innovation:** I prioritize understanding customer needs and crafting solutions that enhance the customer experience while streamlining processes to minimize human involvement.
+  
+- **Long-Term Vision:** I maintain a long-term perspective, avoiding the sacrifice of long-term value for short-term gains. This approach ensures sustainable success in every project.
+
+- **Process Simplification:** I am passionate about finding innovative solutions and then simplifying them to maximize efficiency. My systematic approach to innovation leads to significant improvements in operational processes.
+
+- **Team Empowerment:** I believe in motivating and enabling others to contribute their best work, fostering an environment where creativity and innovation thrive.
+
+- **Patience and Value of Time:** I value time and patience, understanding that true innovation and invention take time to develop and implement effectively.
 
 ## 📊 GitHub Stats
 
@@ -122,4 +191,6 @@ I am committed to continuous learning and development to contribute effectively 
 
 ### 😂 Random Dev Meme
 <img src='https://www.memedroid.com/memes/tag/programming' style="height: 400px;"/>
+
+---
 
