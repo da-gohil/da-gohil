@@ -110,7 +110,7 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 
 ## 💻 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -120,41 +120,55 @@ I am an avid learner and a tech enthusiast who enjoys integrating new technologi
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Web Development Technologies
-- React
-- Angular
-- Node.js
-- Spring
-- Spring Boot
+---
 
-### Frameworks
-- Docker
-- Kubernetes
-- Collection Framework
-- Servlets
-- Hibernate
-- jQuery
+### 🌐 Web Development Technologies
 
-### Tools
-- Postman
-- Figma
-- Agile
-- Git
-- GitHub
-- JIRA
-- Bitbucket
-- Jenkins
-- CI/CD
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### Databases
-- MySQL
-- PL/SQL
-- MongoDB
-- Snowflake
-- Firebase
-- REST APIs
-- GraphQL
-- Hadoop (HIVE - HDFS)
+---
+
+### 📦 Frameworks & Libraries
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Java Collections](https://img.shields.io/badge/Java%20Collections-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%234D7A97.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+---
+
+### 🛠️ Tools & Platforms
+
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23000000.svg?style=for-the-badge&logo=agile&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%231572B6.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 🗄️ Databases & Data Technologies
+
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300C1D4.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-%2366CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-%23FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=black)
+![HDFS](https://img.shields.io/badge/HDFS-%23FF6600.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Certifications
 - ISTQB Certified - Foundation Level (CTFL) – International Testing Board
