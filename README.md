@@ -44,6 +44,14 @@ I'm always eager to meet motivated, hard-working, and talented professionals.
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=da-gohil&theme=tokyo-night" width="100%"/>
+</div>
+
+
+
 ## 🔭 Current Focus
 - Developing advanced Java and Spring Boot applications  
 - Enhancing cloud computing and distributed system design  
