@@ -13,7 +13,7 @@ I’m passionate about solving **complex, real-world problems** through clean ar
 Beyond engineering, I’m deeply engaged in **continuous learning, community participation, and technical leadership**. I actively attend conferences, meetups, tech summits, and social impact initiatives to stay at the forefront of IT trends and rapidly evolving business needs.
 
 I'm always eager to meet motivated, hard-working, and talented professionals.  
-📬 Feel free to get in touch with me at **[dagohil@proton.me](mailto:dagohil@proton.me)** or connect on **[LinkedIn](https://linkedin.com/in/darshangohil)**!
+📬 Feel free to get in touch with me at **[dagohil@proton.me](mailto:dagohil@proton.me)** or connect on **[LinkedIn](https://linkedin.com/in/da-gohil)**!
 
 ---
 
