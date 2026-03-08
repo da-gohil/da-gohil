@@ -1,6 +1,6 @@
-<h1 align="center">👋🏻 Hello! I'm Darshan Gohil</h1>
+<h1 align="center">👋🏻 Hey, I'm Darshan Gohil</h1>
 
-<h3 align="center">Full-Stack Software Engineer with specialization in Java Backend Developments & Testing · HealthTech & FinTech · Building systems that don't fail when failure isn't an option</h3>
+<h3 align="center">Full-Stack Software Engineer · HealthTech & FinTech · Building systems that don't fail when failure isn't an option</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/da-gohil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -35,6 +35,12 @@ Hello! I'm a **Full-Stack Software Engineer** with **2+ years of professional ex
 - ☁️ Deepening expertise in **distributed systems design & Kubernetes orchestration**
 - 🤝 Open to **collaborating** on Java, React, and cloud-native open-source projects
 - 📚 Continuously learning **advanced system design & AI-augmented development**
+- ⚡ Experienced in building **multithreaded, concurrent applications** using Java's ExecutorService & CompletableFuture
+- 🧠 Strong foundation in **Data Structures & Algorithms** — Lists, Queues, Hash Maps, Graphs, Dynamic Programming
+- 🔄 Practiced in **Agile/Scrum** delivery — sprint planning, burn-down tracking, and iterative releases across global teams
+- ⚡ Experienced in building **multithreaded, concurrent applications** using Java's ExecutorService & CompletableFuture
+- 🧠 Strong foundation in **Data Structures & Algorithms** — Lists, Queues, Hash Maps, Graphs, Dynamic Programming
+- 🔄 Practiced in **Agile/Scrum** delivery — sprint planning, burn-down tracking, and iterative releases across global teams
 
 ---
 
@@ -144,4 +150,4 @@ Hello! I'm a **Full-Stack Software Engineer** with **2+ years of professional ex
 
 ---
 
-<h4 align="center">💡 "Innovation thrives at the intersection of precision and creativity." - Darshan Gohil</h4>
+<h4 align="center">💡 "Innovation thrives at the intersection of precision and creativity." — Darshan Gohil</h4>
