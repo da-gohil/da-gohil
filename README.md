@@ -8,7 +8,6 @@
   <a href="https://github.com/da-gohil"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://x.com/idarshangohil"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://signal.me/#eu/SAKztkX6uo7eTJY0wsMgn4xpszx-ImV0sfpfUTuTyib0VrvBJaBHsIosECUCW0XS"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=signal&logoColor=white"/></a>
-  <a href="https://mybucks.onrender.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=da-gohil&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
