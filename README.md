@@ -1,6 +1,6 @@
 <h1 align="center">👋🏻 Hello! I'm Darshan Gohil</h1>
 
-<h3 align="center">Full-Stack Software Engineer · HealthTech & FinTech · Building systems that don't fail when failure isn't an option</h3>
+<h3 align="center">Full-Stack Software Engineer with specialization in Java Backend Developments & Testing · HealthTech & FinTech · Building systems that don't fail when failure isn't an option</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/da-gohil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
