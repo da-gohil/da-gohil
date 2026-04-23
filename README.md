@@ -1,153 +1,98 @@
-<h1 align="center">👋🏻 Hey, I'm Darshan Gohil</h1>
-
-<h3 align="center">Full-Stack Software Engineer · HealthTech & FinTech · Building systems that don't fail when failure isn't an option</h3>
-
+<h2 align="center">Darshan Gohil</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/da-gohil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dagohil@proton.me"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
-  <a href="https://github.com/da-gohil"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/idarshangohil"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://signal.me/#eu/SAKztkX6uo7eTJY0wsMgn4xpszx-ImV0sfpfUTuTyib0VrvBJaBHsIosECUCW0XS"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=signal&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=da-gohil&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://linkedin.com/in/da-gohil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dagohil@proton.me"><img src="https://img.shields.io/badge/Email-1A1B27?style=flat-square&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/idarshangohil"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://signal.me/#eu/SAKztkX6uo7eTJY0wsMgn4xpszx-ImV0sfpfUTuTyib0VrvBJaBHsIosECUCW0XS"><img src="https://img.shields.io/badge/Signal-3A76F0?style=flat-square&logo=signal&logoColor=white" alt="Signal"/></a>
+  <img src="https://komarev.com/ghpvc/?username=da-gohil&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
-## 👨🏻‍💻 About Me
+I am a Software Engineer with 3+ years of professional experience shipping scalable and distributed services in FinTech and HealthTech products with proven expertise of end-to-end feature ownership across globally spanned cross functional teams. I hold Masters of Science in Computer Software Engineering from Northeastern University, Boston, MA, USA (April 2026) and I have completed my Bachelor's of Engineering in Computer Engineering from University of Mumbai (June 2021).
 
-Hello! I'm a **Full-Stack Software Engineer** with **2+ years of professional experience** building high-performance, fault-tolerant applications across **Financial Services (FinTech)** and **Healthcare (HealthTech)** — where systems don't get second chances.
+I specialize in software developments using **Java / Spring Boot** and have built multiple projects using microservices, event-driven pipelines, and clean architecture with a core focus on rigorous LLD/HLD. My approach is writing "correct-by-construction" code that handles the unpredictability of production traffic and real world usecases.
 
-- 🏥 Built production systems serving **900+ hospitals** and **2,560+ monitored beds** at Philips R&D
-- 🏦 Automated migration of **1.5M+ financial records** to Snowflake with near-zero downtime at Capgemini
-- 🎓 Pursuing **MS in Information Systems @ Northeastern University** | GPA: 3.75
-- 🤖 Integrating **AI & LLM tooling** (OpenAI, GitHub Copilot) to accelerate engineering delivery
-- 🌎 Targeting engineering roles at **Google, Meta, Amazon, Uber & Apple**
-- 💬 Ask me about **Distributed Systems, Spring Boot, REST API Design, AWS, and System Design**
-- 📬 Reach me at **[dagohil@proton.me](mailto:dagohil@proton.me)**
+## Professional Background
 
-> *"Build for correctness first, scale second — because systems that fail under load were never truly correct."*
+Software Engineer Co-op at **Philips, Cambridge, MA, USA** *Jan 2025 – Dec 2025*
+- Built a full-scale automated deployment pipeline for PIC iX, cutting setup time from days to minutes across 2,560 beds, 12 institutions, and 47 departments
+- Resolved 52+ high-priority Change Requests by modifying core backend logic on a platform serving 500+ hospitals globally
+- Drove Datadog observability for the pre-production environment, triaging 13+ mission-critical defects across event notification and alarm systems before two major releases
+- Accelerated engineering productivity by 22% by integrating GitHub Copilot and Philips AI into test generation and documentation workflows
 
----
+Senior Software Engineer at **Capgemini, Mumbai, India** *Sept 2021 – Dec 2023*
+- Led an automated ingestion pipeline migrating 1.5M+ financial accounting records from Teradata to Snowflake across 300+ banks with near-zero downtime and 27% fewer post-release defects
+- Replaced batch processing with event-driven ingestion on AWS Lambda + EC2 + S3, improving real-time data availability and cutting processing latency across reporting pipelines
+- Designed distributed ETL pipelines across Hadoop (HDFS, Hive) and IBM DataStage for Tax Reporting, KYC, and enterprise data warehouse systems
+- Led 4 engineers and coordinated with 15+ stakeholders to ship EU-specific pre-migration static analysis, reducing data quality defects before rollout
 
-## 🔭 Current Focus
+Java developer Intern at **Trivia Software Solutions, Mumbai, India** 
 
-- 🔨 Building **MyBucks** — an LLM-powered full-stack personal finance platform
-- ☁️ Deepening expertise in **distributed systems design & Kubernetes orchestration**
-- 🤝 Open to **collaborating** on Java, React, and cloud-native open-source projects
-- 📚 Continuously learning **advanced system design & AI-augmented development**
-- ⚡ Experienced in building **multithreaded, concurrent applications** using Java's ExecutorService & CompletableFuture
-- 🧠 Strong foundation in **Data Structures & Algorithms** — Lists, Queues, Hash Maps, Graphs, Dynamic Programming
-- 🔄 Practiced in **Agile/Scrum** delivery — sprint planning, burn-down tracking, and iterative releases across global teams
-- ⚡ Experienced in building **multithreaded, concurrent applications** using Java's ExecutorService & CompletableFuture
-- 🧠 Strong foundation in **Data Structures & Algorithms** — Lists, Queues, Hash Maps, Graphs, Dynamic Programming
-- 🔄 Practiced in **Agile/Scrum** delivery — sprint planning, burn-down tracking, and iterative releases across global teams
+## Current Working On
 
----
+- Building a concurrent **Cinema Booking System in Go**
+— seat-reservation coordination, backpressure, idempotency, and graceful degradation under contention
+- Deepening distributed systems depth through technical books, Alex Xu Vol. 1–2, and engineering blogs from Uber, Netflix, and Meta
+- Preparing for Big-tech SWE interviews with a focus on system design and Java-flavored DSA
 
-## 🚀 Featured Projects
+## Interests
 
-| 🏆 Project | ⚙️ Stack | ✨ Highlight |
+- Distributed systems, event-driven architectures, and learning about practical tradeoffs behind consistency / availability / latency
+- API design, performance optimization, and observability (Datadog in particular — things that actually catch the 3am page)
+- AI-assisted development workflows — treating LLM tooling as a force multiplier without letting it do the thinking
+
+## Selected Projects
+
+| Project | Stack | What's interesting |
 |---|---|---|
-| **[MyBucks](https://mybucks.onrender.com)** | React, Spring Boot, OpenAI, JWT, Docker | LLM-powered budget recommendations via OpenAI API |
-| **Things To Do** | React, Node.js, MongoDB, Stripe | Full-stack event discovery with Stripe payments |
-| **AI Audio Transcriber** | Spring Boot, React, OpenAI Whisper | Real-time MP3/WAV transcription with 33+ components |
+| **MyBucks** | Spring Boot · PostgreSQL · React · Docker · AWS | 22 REST APIs with JWT + RBAC + end-to-end encryption; PostgreSQL schema tuned with indexes, views, and stored procedures for transactional reads/writes; OpenAI-powered budget analysis and Brevo email notifications, fully containerized via Docker + GitHub Actions |
+| **Doct-Comm** | Java · Kafka · Hibernate | Distributed real-time notification system streaming hospital resource-availability events over Kafka, with fault-tolerant message routing for reliable delivery under high concurrency |
+| **ScribIT** | Spring Boot · React · Whisper API | Stateless, horizontally scalable transcription backend with fault-tolerant handling for API timeouts, malformed input, and concurrent requests |
+| **Cinema Booking (Go)** · *in progress* | Go · goroutines · Redis | Concurrent seat reservations — idempotency keys, optimistic locking, and backpressure under load |
+
+## Tech Stack
+
+**Programming Languages** — Java, Python, C++, JavaScript, Typescript, Go, SQL
+**FrontEnd Developments** — Vue, Angular, React, Redux, HTML, CSS, TailWind, Bootstrap, ViteJS
+**Backend Developments** — Spring Boot, Node.js, Express, REST, GraphQL, Microservices, Hibernate, JWT
+**Data & Streaming** — PostgreSQL, MySQL, MongoDB, Redis, MS SQL Server, Apache Kafka, Snowflake, Hadoop (HDFS, Hive)
+**Cloud & DevOps** — AWS (EC2, S3, Lambda, IAM), Azure DevOps, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+**Monitoring & QA** — Datadog, JUnit, Selenium, Postman
 
 ---
 
-## 💼 Experience Highlights
-
-🏥 **Philips R&D** — *Software Engineer Co-op | Jan 2025 – Dec 2025*
-- Engineered Java/Selenium deployment automation across **2,560 beds, 12 institutions & 47 departments**
-- Monitored production via **Datadog & Azure Monitor**, triaging 16+ mission-critical defects
-- Shipped **2 global milestone releases** of PIC iX patient monitoring platform
-
-🏦 **Capgemini** — *Software Engineer 2 | Sept 2021 – Dec 2023*
-- Migrated **1.5M+ banking records** to Snowflake with near-zero downtime
-- Identified serialization bottleneck cutting throughput **35%** using Datadog & CloudWatch
-- Led **4 engineers** across **15+ stakeholders** to deliver EU-compliant features
-
----
-
-## 💻 Tech Stack
-
-### 🧩 Languages & Frontend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-%2300C1D4.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### ☁️ Cloud, DevOps & Monitoring
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🤖 AI & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=da-gohil&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=da-gohil&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=da-gohil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=da-gohil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=da-gohil&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=da-gohil&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/da-gohil/da-gohil/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## Quote of the day
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=da-gohil&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</p>
+
+## Joke of the day
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Random programming joke"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=da-gohil&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🛡️ Contact
-
-**Secure** &nbsp;→&nbsp; [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/SAKztkX6uo7eTJY0wsMgn4xpszx-ImV0sfpfUTuTyib0VrvBJaBHsIosECUCW0XS)
-
-**Professional** &nbsp;→&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/da-gohil) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/da-gohil)
-
-**Social** &nbsp;→&nbsp; [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/idarshangohil) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:dagohil@proton.me)
-
----
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<h4 align="center">💡 "Innovation thrives at the intersection of precision and creativity." — Darshan Gohil</h4>
+<p align="center">
+  <sub>Open to SWE roles · <a href="mailto:gohil.da@northeastern.edu">gohil.da@northeastern.edu</a></sub>
+</p>
