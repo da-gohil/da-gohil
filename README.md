@@ -28,6 +28,8 @@ Senior Software Engineer at **Capgemini, Mumbai, India** *Sept 2021 – Dec 2023
 - Led 4 engineers and coordinated with 15+ stakeholders to ship EU-specific pre-migration static analysis, reducing data quality defects before rollout
 
 Java developer Intern at **Trivia Software Solutions, Mumbai, India** 
+- Developed Java-based management applications with Hibernate ORM, replacing raw JDBC database calls with object-relational mapping to improve code maintainability and reduce boilerplate
+- Designed and optimized MySQL database schema applying normalization techniques to reduce data redundancy and improve query performance across the application
 
 ## Current Working On
 
