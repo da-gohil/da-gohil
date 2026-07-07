@@ -1,8 +1,9 @@
-<h2 align="center">Darshan Gohil</h2>
+<h2 align="center">hey, I am Darshan Gohil!</h2>
+
 <p align="center">
   <a href="https://linkedin.com/in/da-gohil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:dagohil@proton.me"><img src="https://img.shields.io/badge/Email-1A1B27?style=flat-square&logoColor=white" alt="Email"/></a>
-  <a href="https://x.com/idarshangohil"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logoColor=white"/></a>
+  <a href="mailto:dagohil@proton.me"><img src="https://img.shields.io/badge/Email-1A1B27?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/idarshangohil"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logoColor=white" alt="X"/></a>
   <a href="https://signal.me/#eu/SAKztkX6uo7eTJY0wsMgn4xpszx-ImV0sfpfUTuTyib0VrvBJaBHsIosECUCW0XS"><img src="https://img.shields.io/badge/Signal-3A76F0?style=flat-square&logo=signal&logoColor=white" alt="Signal"/></a>
   <img src="https://komarev.com/ghpvc/?username=da-gohil&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
@@ -13,14 +14,24 @@ I am a Software Engineer with 3+ years of professional experience shipping scala
 
 I specialize in software developments using **Java / Spring Boot** and have built multiple projects using microservices, event-driven pipelines, and clean architecture with a core focus on rigorous LLD/HLD. My approach is writing "correct-by-construction" code that handles the unpredictability of production traffic and real world usecases
 
-## Professional Experience
+## Education
 
-Software Engineer Co-op at **Philips, Cambridge, MA, USA** *Jan 2025 - Dec 2025*
+- **M.S. in Computer Software Engineering** - Northeastern University, Boston, MA *(May 2026)*
+- **B.E. in Computer Engineering** - University of Mumbai *(June 2021)*
 
-Senior Software Engineer at **Capgemini, Mumbai, MH, India** *Sept 2021 – Dec 2023*
+## 💼 Professional Experience
 
-Junior Java Developer Intern at **Trivia Software Solutions, Mumbai, MH, India** *May 2018 – Jul 2018*
+**Software Engineer Co-op**  
+**Philips** - Cambridge, MA, USA  
+*Jan 2025 - Dec 2025*
 
+**Senior Software Engineer**  
+**Capgemini** - Mumbai, MH, India  
+*Sept 2021 - Dec 2023*
+
+**Junior Java Developer Intern**  
+**Trivia Software Solutions** - Mumbai, MH, India  
+*May 2018 - Jul 2018*
 
 ## Interests
 
@@ -30,16 +41,17 @@ Junior Java Developer Intern at **Trivia Software Solutions, Mumbai, MH, India**
 
 ## Tech Stack
 
-**Programming Languages** — Java, Python, C++, JavaScript, Typescript, Go, SQL
-**FrontEnd Developments** — Vue, Angular, React, Redux, HTML, CSS, TailWind, Bootstrap, ViteJS
-**Backend Developments** — Spring Boot, Node.js, Express, REST, GraphQL, Microservices, Hibernate, JWT
-**Data & Streaming** — PostgreSQL, MySQL, MongoDB, Redis, MS SQL Server, Apache Kafka, Snowflake, Hadoop (HDFS, Hive)
-**Cloud & DevOps** — AWS (EC2, S3, Lambda, IAM), Azure DevOps, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
-**Monitoring & QA** — Datadog, JUnit, Selenium, Postman
+| Category                  | Technologies |
+|---------------------------|--------------|
+| **Programming Languages** | Java • Python • C++ • JavaScript • TypeScript • Go • SQL |
+| **Frontend**              | Vue • Angular • React • Redux • HTML • CSS • Tailwind • Bootstrap • ViteJS |
+| **Backend**               | Spring Boot • Node.js • Express • REST • GraphQL • Microservices • Hibernate • JWT |
+| **Data & Streaming**      | PostgreSQL • MySQL • MongoDB • Redis • MS SQL Server • Apache Kafka • Snowflake • Hadoop (HDFS, Hive) |
+| **Cloud & DevOps**        | AWS (EC2, S3, Lambda, IAM, EKS) • Azure DevOps • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions |
+| **Monitoring & QA**       | Datadog • JUnit • Selenium • Postman |
 
----
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=da-gohil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
@@ -71,5 +83,5 @@ Junior Java Developer Intern at **Trivia Software Solutions, Mumbai, MH, India**
 ---
 
 <p align="center">
-  <sub>Open to SWE roles · <a href="mailto:gohil.da@northeastern.edu">gohil.da@northeastern.edu</a></sub>
+  <sub>Open to SWE roles · <a href="mailto:dagohil@proton.me">dagohil@proton.me</a></sub>
 </p>
