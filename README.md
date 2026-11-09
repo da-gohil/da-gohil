@@ -10,14 +10,14 @@
 
 ---
 
-I am a Software Engineer with 3+ years of professional experience shipping scalable and distributed backend services in FinTech and HealthTech products with proven expertise of end-to-end feature ownership across globally spanned cross functional teams. I completed my graduate studies at Northeastern University in Boston, MA, USA with Major in Computer Software Engineering (May 2026) and I have completed my Bachelor's of Engineering in Computer Engineering from University of Mumbai (June 2021)
+I am a Full Stack Software Engineer with 3.5 years of professional experience shipping distributed and scalable backend services in Financial Services (FinTech) and HealthTech products with proven expertise of end-to-end feature ownership across globally spanned cross functional teams. I completed my graduate studies at Northeastern University in Boston, MA, USA with Major in Computer Software Engineering (May 2026) and I have completed my Bachelor's of Engineering in Computer Engineering from University of Mumbai (June 2021)
 
-I specialize in software developments using **Java / Spring Boot** and have built multiple projects using microservices, event-driven pipelines, and clean architecture with a core focus on rigorous LLD/HLD. My approach is writing "correct-by-construction" code that handles the unpredictability of production traffic and real world usecases
+I specialize in software developments using **Java / Spring Boot** and have developed multiple projects following first principles, microservices, event-driven pipelines, and scalable architecture with a core focus on rigorous Low Level Design and High Level Design. My approach is writing "correct-by-construction" code that handles the unpredictability of production traffic and ensure to meet real world end user expectations
 
 ## Education
 
-- **M.S. in Computer Software Engineering** - Northeastern University, Boston, MA *(May 2026)*
-- **B.E. in Computer Engineering** - University of Mumbai *(June 2021)*
+- **Master of Science in Computer Software Engineering** - Northeastern University, Boston, MA *(May 2026)*
+- **Bachelor of Engineering in Computer Engineering** - University of Mumbai *(June 2021)*
 
 ## 💼 Professional Experience
 
@@ -43,7 +43,7 @@ I specialize in software developments using **Java / Spring Boot** and have buil
 
 | Category                  | Technologies |
 |---------------------------|--------------|
-| **Programming Languages** | • Java • C++ • Python • JavaScript • TypeScript • Go • SQL |
+| **Programming Languages** | • Java • C++ • Python • JavaScript • TypeScript • SQL |
 | **Frontend**              | • Vue • Angular • React • Redux • HTML • CSS • Tailwind • Bootstrap • ViteJS |
 | **Backend**               | • Spring Boot • Node.js • Express • REST • GraphQL • Microservices • Hibernate • JWT |
 | **Data & Streaming**      | • PostgreSQL • MySQL • MongoDB • Redis • MS SQL Server • Apache Kafka • Snowflake • Hadoop (HDFS, Hive) |
